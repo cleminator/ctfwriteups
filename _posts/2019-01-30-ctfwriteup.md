@@ -1,3 +1,8 @@
+---
+title: "My first CTF Writeup"
+date: 2019-01-30
+---
+
 This is the write-up for the awesome CTF challenge:
 
 1. Visit the page https://imgut.com/PPf7zdJ
