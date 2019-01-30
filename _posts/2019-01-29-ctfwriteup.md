@@ -15,6 +15,6 @@ There are two interesting details: an email address (contact_ctf@enusec.org) and
 
 The webserver automatically send sback an email with the flag.
 
-#flag{You_found_the_flag}
+flag{You_found_the_flag}
 
 4. Done
