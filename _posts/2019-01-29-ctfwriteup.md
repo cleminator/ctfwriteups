@@ -1,6 +1,5 @@
 ---
 title: "My first CTF Writeup"
-date: 2019-01-29
 ---
 
 This is the write-up for the awesome CTF challenge:
